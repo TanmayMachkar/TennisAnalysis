@@ -1,7 +1,7 @@
 # Tennis Analysis
 
 ## Introduction
-This project analyzes professional tennis matches to measure player speed, ball shot speed, and the number of shots exchanged. It detects players and the tennis ball using YOLO, and utilizes a ResNet-50-based model to extract court keypoints. This hands-on project is ideal for enhancing your machine learning and computer vision skills.
+This project analyzes professional tennis matches to measure player speed, ball shot speed, and the number of shots exchanged. It detects players and the tennis ball using YOLO, and utilizes a ResNet-50-based model to extract court keypoints. This project provides a practical framework for real-time sports analytics by combining object detection, motion tracking, and court geometry estimation, making it suitable for building advanced video analysis tools in sports.
 
 ## Output Visualization
 The system generates annotated match footage like the screenshot below, showcasing:
