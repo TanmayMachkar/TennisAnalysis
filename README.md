@@ -15,6 +15,12 @@ The system generates annotated match footage like the screenshot below, showcasi
 ![Screenshot](output_videos/ReadmeSS.jpg)  
 *Frame 94: Player 1 (Djokovic) prepares a return while Player 2 (Sonego) is positioned at the baseline.*
 
+**Mini Court Overlay Legend:**
+- 🔴 **Red dots**: Detected court keypoints  
+- 🔵 **Blue line**: Tennis net  
+- 🟢 **Green dots**: Player positions  
+- 🟡 **Yellow dot**: Ball position
+
 **Example metrics shown:**
 - **Shot Speed**: Player 1 – 33.1 km/h, Player 2 – 43.0 km/h  
 - **Player Speed**: Player 1 – 4.5 km/h, Player 2 – 1.7 km/h  
