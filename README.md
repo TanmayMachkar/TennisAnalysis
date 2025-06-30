@@ -36,6 +36,9 @@ The system generates annotated match footage like the screenshot below, showcasi
 - The tennis ball detection model was trained using a public dataset from Roboflow:  
   👉 [Tennis Ball Detection Dataset – Roboflow](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection)
 
+- **Tennis Court Keypoint Detection Dataset** (for ResNet-50 training):  
+  👉 [Google Drive – Court Keypoints Dataset](https://drive.usercontent.google.com/download?id=1lhAaeQCmk2y440PmagA0KmIVBIysVMwu&export=download)
+
 ## Training
 You can find training notebooks in the `training/` directory:
 - `tennis_ball_detector_training.ipynb` – For training the ball detection model
